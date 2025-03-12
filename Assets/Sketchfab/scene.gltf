@@ -1,0 +1,384 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3841,
+      "max": [
+        2.323640823364258,
+        2.8849754333496094,
+        2.1782541275024414
+      ],
+      "min": [
+        -2.3114027976989746,
+        -22.870609283447266,
+        -2.191844940185547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46092,
+      "componentType": 5126,
+      "count": 3841,
+      "max": [
+        0.9966182708740234,
+        1.0,
+        0.9962896704673767
+      ],
+      "min": [
+        -0.996618390083313,
+        -1.0,
+        -0.9962896704673767
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3841,
+      "max": [
+        1.000239372253418,
+        1.000000238418579
+      ],
+      "min": [
+        -0.00023947941372171044,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 18030,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 92184,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1.4511747360229492,
+        1.2735061645507813,
+        1.6352711915969849
+      ],
+      "min": [
+        -1.4511747360229492,
+        -0.8460386395454407,
+        -1.6352711915969849
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 92472,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.9677472710609436,
+        -0.2519230544567108,
+        0.8380937576293945
+      ],
+      "min": [
+        -0.9677472710609436,
+        -0.25192320346832275,
+        -0.8380936980247498
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 30728,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.9916039109230042,
+        0.9831708669662476
+      ],
+      "min": [
+        0.008395988494157791,
+        0.516829252243042
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 72120,
+      "componentType": 5125,
+      "count": 36,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        5.0
+      ],
+      "min": [
+        0.0416666679084301
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 120,
+      "max": [
+        0.40716612339019775,
+        3.4423677921295166,
+        4.857426166534424
+      ],
+      "min": [
+        0.40716612339019775,
+        3.1223678588867188,
+        -1.1025738716125488
+      ],
+      "type": "VEC3"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 6,
+            "path": "translation"
+          }
+        }
+      ],
+      "name": "CameraAction.002",
+      "samplers": [
+        {
+          "input": 8,
+          "interpolation": "LINEAR",
+          "output": 9
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "amurin (https://sketchfab.com/amurin)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/street-light-lamp-78339c366835415fbc58032e99268590",
+      "title": "Street Light Lamp"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 72264,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30920,
+      "byteOffset": 72264,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 92760,
+      "byteOffset": 103184,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 480,
+      "byteOffset": 195944,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1440,
+      "byteOffset": 196424,
+      "byteStride": 12,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 197864,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.00424188,
+          0.00424188,
+          0.00424188,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.875
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        0.3739926065094334
+      ],
+      "name": "Material.007"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.16598027294960338,
+        0.0,
+        -0.08725104472880149,
+        0.0,
+        0.0,
+        0.1872013956308365,
+        0.0,
+        0.0,
+        0.09254078114030419,
+        0.0,
+        0.1760430967947699,
+        0.0,
+        0.6096684336662292,
+        4.582640171051025,
+        -7.334659099578857,
+        1.0
+      ],
+      "name": "Cylinder.001_2"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    },
+    {
+      "name": "IrradianceVolume_3",
+      "scale": [
+        4.031469345092773,
+        4.031469345092773,
+        13.691344261169434
+      ],
+      "translation": [
+        0.40716612339019775,
+        4.02257776260376,
+        -11.814977645874023
+      ]
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

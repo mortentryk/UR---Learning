@@ -1,0 +1,1 @@
+Click on file >>> Inspector >>> Windows, Mac, Linux Settings >>> Compression Format:PCM >>> Sample Rate Setting:Preserve Sample Rate

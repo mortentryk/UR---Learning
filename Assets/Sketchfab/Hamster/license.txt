@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hamster Wheel
+* source:	https://sketchfab.com/3d-models/hamster-wheel-4303e129ce5d4b4d91c684e6e2c115b9
+* author:	Jenosuke (https://sketchfab.com/Jenosuke)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hamster Wheel" (https://sketchfab.com/3d-models/hamster-wheel-4303e129ce5d4b4d91c684e6e2c115b9) by Jenosuke (https://sketchfab.com/Jenosuke) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
