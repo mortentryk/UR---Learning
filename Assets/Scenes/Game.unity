@@ -2288,7 +2288,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   environment1: 2
   environment2: 3
-  environment3: 4
   room_name: {fileID: 953358300}
   players: {fileID: 1851637992}
   lock_image: {fileID: 1464032329}
@@ -2348,7 +2347,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1635262494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2379,9 +2378,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8171064120cd8340bd3b1acb096fc24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  environment1: 2
-  environment2: 4
-  environment3: 4
+  environment1: 3
+  environment2: 2
   room_name: {fileID: 953358300}
   players: {fileID: 1851637992}
   lock_image: {fileID: 1464032329}

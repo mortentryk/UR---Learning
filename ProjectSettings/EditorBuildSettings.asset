@@ -12,18 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Game.unity
     guid: e9017d5f96b9f09489b4b37e1d6eb914
   - enabled: 1
-    path: Assets/Scenes/Scene1-metalize.unity
-    guid: e6af9679a5b1541468c9eda0520406d9
-  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: efb823e30b7381142a0c9cf51dd89340
+  - enabled: 1
     path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity
     guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
+  - enabled: 0
+    path: Assets/Scenes/Scene1-metalize.unity
+    guid: e6af9679a5b1541468c9eda0520406d9
   - enabled: 0
     path: Assets/Scenes/Environment 1.unity
     guid: 5726917d1d5e31f4e93fd05194b2ddbf
   - enabled: 1
-    path: Assets/Scenes/Test.unity
-    guid: efb823e30b7381142a0c9cf51dd89340
-  - enabled: 0
     path: "Assets/Scenes/f\xF8rste verdenskrig.unity"
     guid: b5e570f036636374788838fa68c43c7d
   - enabled: 0
