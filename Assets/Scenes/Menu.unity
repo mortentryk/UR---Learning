@@ -3877,7 +3877,7 @@ MonoBehaviour:
   room_search: {fileID: 7531020881137571968}
   refreshInterval: 1
   UseCustomLocation: 1
-  CustomLocation: {x: 0, y: 0.1, z: 0}
+  CustomLocation: {x: 1, y: 1, z: 1}
   loadingScreenScript: {fileID: 2371258590935768603}
   popup: {fileID: 2093478885}
   menuCanvas: {fileID: 8046102912774687602}
