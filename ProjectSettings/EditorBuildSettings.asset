@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Demo 2.unity
     guid: ba03a2e1c559c9e4b9d95758e3859bd3
+  - enabled: 1
+    path: Assets/Scenes/Scene1-metalize 1.unity
+    guid: 9844860a0da8e411f8ea32d4a625ffba
   m_configObjects: {}
